@@ -1,0 +1,17 @@
+{
+  "installationFolder": "/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/opencv/build/intermediates/prefab_package/release/prefab",
+  "gradlePath": ":opencv",
+  "packageInfo": {
+    "packageName": "opencv",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/opencv/native/jni/include",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}

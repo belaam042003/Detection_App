@@ -1,0 +1,198 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 31 min SDK version: x86",
+    "file_": "C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1796904192
+  },
+  {
+    "level_": 3,
+    "message_": "expected buildFiles file \u0027C:\\Users\\david\\AndroidStudioProjects\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\libcxx_helper\\CMakeLists.txt\u0027 to exist",
+    "file_": "C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\.cxx\\Debug\\1g6q6z60\\x86\\android_gradle_build.json",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 1409,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1456666847
+  },
+  {
+    "level_": 3,
+    "message_": "expected buildTargetsCommandComponents command \u0027C:\\Users\\david\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe\u0027 to exist",
+    "file_": "C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\.cxx\\Debug\\1g6q6z60\\x86\\android_gradle_build.json",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 1410,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2129592182
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\.cxx\\Debug\\1g6q6z60\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1016562086
+  },
+  {
+    "level_": 0,
+    "message_": "- a hard configure file changed, will remove stale configuration folder",
+    "file_": "C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -749911783
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\.cxx\\Debug\\1g6q6z60\\x86\\metadata_generation_command.txt (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1461516063
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\.cxx\\Debug\\1g6q6z60\\x86\u0027",
+    "file_": "C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2000445144
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\.cxx\\Debug\\1g6q6z60\\x86\u0027",
+    "file_": "C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2047529292
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\andre\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\andre\\\\Downloads\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\sdk\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d31\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-31\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\andre\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\andre\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\andre\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\andre\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\andre\\\\Downloads\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\sdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1g6q6z60\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\andre\\\\Downloads\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\sdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1g6q6z60\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\andre\\\\Downloads\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\sdk\\\\.cxx\\\\Debug\\\\1g6q6z60\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1875799058
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\andre\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\andre\\\\Downloads\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\sdk\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d31\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-31\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\andre\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\andre\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\andre\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\andre\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\andre\\\\Downloads\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\sdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1g6q6z60\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\andre\\\\Downloads\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\sdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1g6q6z60\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\andre\\\\Downloads\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\Parcial_tecer_corte\\\\sdk\\\\.cxx\\\\Debug\\\\1g6q6z60\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1998895471
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\.cxx\\Debug\\1g6q6z60\\x86\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1266675586
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1880609828
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\.cxx\\Debug\\1g6q6z60\\x86\\compile_commands.json to C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\.cxx\\tools\\debug\\x86\\compile_commands.json",
+    "file_": "C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -958605612
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\andre\\Downloads\\Parcial_tecer_corte\\Parcial_tecer_corte\\Parcial_tecer_corte\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 57463256
+  }
+]

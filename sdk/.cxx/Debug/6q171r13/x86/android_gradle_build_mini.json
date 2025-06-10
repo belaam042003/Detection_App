@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/sdk/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/isabella/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/sdk/.cxx/Debug/6q171r13/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/isabella/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/sdk/.cxx/Debug/6q171r13/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/sdk/.cxx/Debug/6q171r13/x86/libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

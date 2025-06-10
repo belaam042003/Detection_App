@@ -1,0 +1,3 @@
+C:/Users/crimi/AndroidStudioProjects/Parcial_tecer_corte/sdk/.cxx/Debug/yz4b4u4z/arm64-v8a/CMakeFiles/opencv_jni_shared.dir
+C:/Users/crimi/AndroidStudioProjects/Parcial_tecer_corte/sdk/.cxx/Debug/yz4b4u4z/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/crimi/AndroidStudioProjects/Parcial_tecer_corte/sdk/.cxx/Debug/yz4b4u4z/arm64-v8a/CMakeFiles/rebuild_cache.dir

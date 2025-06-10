@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/sdk/.cxx/Debug/6q171r13/arm64-v8a'
+ninja: no work to do.

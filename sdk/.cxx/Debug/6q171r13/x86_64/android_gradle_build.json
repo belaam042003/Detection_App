@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/sdk/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/isabella/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/sdk/.cxx/Debug/6q171r13/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/isabella/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/sdk/.cxx/Debug/6q171r13/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "opencv_jni_shared",
+      "output": "/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/sdk/.cxx/Debug/6q171r13/x86_64/libopencv_jni_shared.a"
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/isabella/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/isabella/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

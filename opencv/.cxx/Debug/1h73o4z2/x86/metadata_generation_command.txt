@@ -1,0 +1,19 @@
+                        -H/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/opencv/libcxx_helper
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=34
+-DANDROID_PLATFORM=android-34
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/home/isabella/Android/Sdk/ndk/26.1.10909125
+-DCMAKE_ANDROID_NDK=/home/isabella/Android/Sdk/ndk/26.1.10909125
+-DCMAKE_TOOLCHAIN_FILE=/home/isabella/Android/Sdk/ndk/26.1.10909125/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/isabella/Android/Sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/opencv/build/intermediates/cxx/Debug/1h73o4z2/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/opencv/build/intermediates/cxx/Debug/1h73o4z2/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/opencv/.cxx/Debug/1h73o4z2/x86
+-GNinja
+-DANDROID_STL=c++_shared
+                        Build command args: []
+                        Version: 2

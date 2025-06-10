@@ -1,0 +1,3 @@
+/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/sdk/.cxx/Debug/6q171r13/x86/CMakeFiles/opencv_jni_shared.dir
+/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/sdk/.cxx/Debug/6q171r13/x86/CMakeFiles/edit_cache.dir
+/home/isabella/Descargas/Parcial_tecer_corte/Parcial_tecer_corte/Parcial_tecer_corte/sdk/.cxx/Debug/6q171r13/x86/CMakeFiles/rebuild_cache.dir
